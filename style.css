@@ -1,4 +1,11 @@
 body {
-  font-family: Arial, Helvetica, sans-serif;
-  background-color: aqua;
+  font-family: Helvetica;
+  margin: 0;
+  background-color: rgb(150, 208, 255);
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  box-sizing: border-box;
 }
