@@ -14,3 +14,7 @@ article {
   width: 600px;
   margin: auto;
 }
+article h1 {
+  display: flex;
+  justify-content: center;
+}
