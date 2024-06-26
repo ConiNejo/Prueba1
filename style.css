@@ -21,3 +21,7 @@ article {
 =======
 >>>>>>> 77852ac9936f97905efa5d07815421f136360cc0
 }
+article h1 {
+  display: flex;
+  justify-content: center;
+}
